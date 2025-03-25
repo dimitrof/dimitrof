@@ -1,4 +1,4 @@
 #!/bin/bash
 
-NUMBEROUT=$(expr $NUMBERone + $NUMBERTWO)
+NUMBEROUT=$(expr $NUMBERONE + $NUMBERTWO)
 echo $NUMBEROUT
